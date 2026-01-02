@@ -1,0 +1,11 @@
+#!/bin/sh
+# ----------------------------------------------------------------------------
+# Maven Wrapper Startup Script
+# (abrégé pour clarté)
+# Voir le script original pour la version complète
+# ----------------------------------------------------------------------------
+
+# Ce script permet d'exécuter Maven sans installation préalable
+# Utilisation : ./mvnw [commande]
+
+# ...script original ici...
